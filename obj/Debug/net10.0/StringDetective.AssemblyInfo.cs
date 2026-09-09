@@ -13,7 +13,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("StringDetective")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+edb692ea2db4b3909e35a54554437df47d62bc75")]
 [assembly: System.Reflection.AssemblyProductAttribute("StringDetective")]
 [assembly: System.Reflection.AssemblyTitleAttribute("StringDetective")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
