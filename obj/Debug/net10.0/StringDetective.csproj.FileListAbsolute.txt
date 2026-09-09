@@ -1,0 +1,14 @@
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/bin/Debug/net10.0/StringDetective
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/bin/Debug/net10.0/StringDetective.deps.json
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/bin/Debug/net10.0/StringDetective.runtimeconfig.json
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/bin/Debug/net10.0/StringDetective.dll
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/bin/Debug/net10.0/StringDetective.pdb
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/obj/Debug/net10.0/StringDetective.GeneratedMSBuildEditorConfig.editorconfig
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/obj/Debug/net10.0/StringDetective.AssemblyInfoInputs.cache
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/obj/Debug/net10.0/StringDetective.AssemblyInfo.cs
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/obj/Debug/net10.0/StringDetective.csproj.CoreCompileInputs.cache
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/obj/Debug/net10.0/StringDetective.dll
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/obj/Debug/net10.0/refint/StringDetective.dll
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/obj/Debug/net10.0/StringDetective.pdb
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/obj/Debug/net10.0/StringDetective.genruntimeconfig.cache
+/Users/petimtetuch/Desktop/petimat IS-31/StringDetective/obj/Debug/net10.0/ref/StringDetective.dll
